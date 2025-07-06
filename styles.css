@@ -9,6 +9,10 @@ h1 {
 p {
 	color:black;
 }
+tenor-gif-embed{
+	max-width:50;
+	max-height:60;
+}
 .center {
 	text-align: center;
 }
